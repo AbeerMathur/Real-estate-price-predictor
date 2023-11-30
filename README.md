@@ -1,4 +1,12 @@
 # Real-estate-price-predictor
+<ul>
+<li><a href="housing.data">housing.data</a> and <a href="housing.name">housing.name</a> contains detailed information about the dataset. The dataset is 'Boston housing data' from StatLib library which is maintained at Carnegie Mellon University.</li><br>
+<li>The model is stored in a <a href="Realestate_valuepredictor.ipynb">Joblib Module</a></li> <br>
+<li>The actual dataset is given as a <a href="data.csv">CSV File</a> and an <a href="data workbook.xlsx">Excel Workbook.</a></li><br>
+<li>Results given from different models are given <a href="results_from_diff_models.txt">here.</a></li><br>
+<li>The <a href="Real_estate_value_predictor.ipynb">Jupyter notebook</a> where the actual project was made is also provided.</li>
+</ul>
+
 # Machine Learning Project Documentation
 
 ## Overview
